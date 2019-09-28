@@ -70,3 +70,27 @@ apt-get -y install wget
 ```
 
 ![](https://github.com/Lumnca/shadowsocksR/blob/master/img/HFT2FEJMSC67YHXN%7BJM%5B%5BUQ.png)
+
+![](https://github.com/Lumnca/shadowsocksR/blob/master/img/KTR%60JCQZL%7B8S%60U1YTB9WAWO.png)
+
+![](https://github.com/Lumnca/shadowsocksR/blob/master/img/_YR%25QX%7DJ0~~%7BSB1Y%24V%5B%5D9~T.png)
+
+
+
+SSR服务端安装成功后，就可以在电脑、手机、路由器等设备上的SSR客户端上，按照以上设置的各项参数进行连接了。
+
+常用命令
+
+```
+启动SSR：
+/etc/init.d/shadowsocks-r start
+退出SSR：
+/etc/init.d/shadowsocks-r stop
+重启SSR：
+/etc/init.d/shadowsocks-r restart
+SSR状态：
+/etc/init.d/shadowsocks-r status
+卸载SSR：
+./shadowsocks-all.sh uninstall
+```
+
