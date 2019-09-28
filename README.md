@@ -108,9 +108,9 @@ SSR Windows客户端主要用于电脑端，目前最新版本为4.9.0
 
 SSR安卓客户端主要用于安卓手机、安卓平板平台，目前最新版本为3.5.4
 
-[安卓手机](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)
+[安卓SSR手机下载](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)
 
-(MAC电脑)[https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build3/ShadowsocksX-NG-R8.dmg]
+[MAC电脑SSR下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build3/ShadowsocksX-NG-R8.dmg)
 
 连接配置按照SSR服务端返回的填入即可，也可以通过复制ssr连接字符串批量导入，或者扫描二维码。如下会自动把数据填充：
 
