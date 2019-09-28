@@ -114,6 +114,6 @@ SSR安卓客户端主要用于安卓手机、安卓平板平台，目前最新�
 
 连接配置按照SSR服务端返回的填入即可，也可以通过复制ssr连接字符串批量导入，或者扫描二维码。如下会自动把数据填充：
 
-![](https://github.com/Lumnca/shadowsocksR/blob/master/img/23GU084U0OL)B2%7DHL~UJHYQ.png)
+![](https://github.com/Lumnca/shadowsocksR/blob/master/img/a44.png)
 
 选择代理方式为绕过大陆和局域网即可实现上外网了。至此完成，当然还有一个问题就是访问会比较慢，所以还需要加速器来完成访问加快。
