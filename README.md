@@ -94,3 +94,26 @@ SSR状态：
 ./shadowsocks-all.sh uninstall
 ```
 
+***
+
+**安装SSR客户端**
+
+目前SSR客户端，根据平台不同，版本也不同。有Windows版、安卓版、iOs版、MAC版、路由器版等供我们选择，可以说覆盖非常全面了。根据个人需求，下载对应版本安装即可。
+
+SSR客户端下载地址：
+
+SSR Windows客户端主要用于电脑端，目前最新版本为4.9.0
+
+[SSR Windows](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)
+
+SSR安卓客户端主要用于安卓手机、安卓平板平台，目前最新版本为3.5.4
+
+[安卓手机](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)
+
+(MAC电脑)[https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build3/ShadowsocksX-NG-R8.dmg]
+
+连接配置按照SSR服务端返回的填入即可，也可以通过复制ssr连接字符串批量导入，或者扫描二维码。如下会自动把数据填充：
+
+![](https://github.com/Lumnca/shadowsocksR/blob/master/img/23GU084U0OL)B2%7DHL~UJHYQ.png)
+
+选择代理方式为绕过大陆和局域网即可实现上外网了。至此完成，当然还有一个问题就是访问会比较慢，所以还需要加速器来完成访问加快。
